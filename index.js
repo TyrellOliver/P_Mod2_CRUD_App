@@ -1,4 +1,4 @@
-const { readJSONSync, writeJSONSync } = require("./src/helpers");
+const { readJSONFile, writeJSONFile } = require("./src/helpers");
 
 
 function run() {
